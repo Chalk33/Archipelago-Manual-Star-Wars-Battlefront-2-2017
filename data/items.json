@@ -1,0 +1,464 @@
+[
+	{
+		"count":1,
+		"name": "Assault class",
+		"category": ["Units"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Heavy class",
+		"category": ["Units"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Officer class",
+		"category": ["Units"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Specialist",
+		"category": ["Units"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Republic Jet Trooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rebel Rocket-Jumper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Resistance Rocket-Jumper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Clone Commando",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wookiee Warrior",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ovissian Gunner",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "ARC Trooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ewok Hunter",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Caphex Spy",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "B2-RP Rocket Droid",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Imperial Jump Trooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "First Order Jet Trooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Super Battle Droid",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Droideka",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Death Trooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "First Order Flametrooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Commando Droid",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "ISB Agent",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sith Trooper",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "AT-RT",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "BARC Speeder",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "TX-130",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "AAT",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "STAP",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "AT-ST",
+		"category": ["Reinforcements"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Luke Skywalker",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Leia Organa",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Han Solo",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chewbacca",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lando Calrissian",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Yoda",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rey",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Finn",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Obi-Wan Kenobi",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Anakin Skywalker",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "BB-8",
+		"category": ["Heroes"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Darth Vader",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Emperor Palpatine",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Boba Fett",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bossk",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Iden Versio",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Darth Maul",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Kylo Ren",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Captain Phasma",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "General Grievous",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Count Dooku",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "BB-9E",
+		"category": ["Villains"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Republic",
+		"category": ["Factions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Separatists",
+		"category": ["Factions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Empire",
+		"category": ["Factions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rebellion",
+		"category": ["Factions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Resistance",
+		"category": ["Factions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "First Order",
+		"category": ["Factions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Geonosis",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kamino",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kashyyyk",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Naboo",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Felucia",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bespin",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Death Star II",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Endor",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hoth",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kessel",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Scarif",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tatooine",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yavin 4",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ajan Kloss",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crait",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Jakku",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Starkiller Base",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Takodana",
+		"category": ["Maps"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Campaign Progressive",
+		"category": ["Campaign"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Kyber Crystal",
+		"category": ["Victory"],
+		"progression_skip_balancing": true
+	}
+]

@@ -1,0 +1,25 @@
+{
+    "game": "StarWarsBattlefront2-2017",
+    "creator": "Chalk33",
+    "filler_item_name": "Morale",
+    "starting_items": [
+        {
+            "item_categories": [
+                "Units"
+            ],
+            "random": 1
+        },
+        {
+            "item_categories": [
+                "Factions"
+            ],
+            "random": 1
+        },
+        {
+            "item_categories": [
+                "Maps"
+            ],
+            "random": 1
+        }
+    ]
+}
