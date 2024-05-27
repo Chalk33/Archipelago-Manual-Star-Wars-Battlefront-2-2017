@@ -305,7 +305,17 @@
 		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
 	{
+		"name": "2 Republic victories",
+		"category": ["Combat"],
+		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
 		"name": "3 Republic victories",
+		"category": ["Combat"],
+		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
+		"name": "4 Republic victories",
 		"category": ["Combat"],
 		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
@@ -320,9 +330,19 @@
 		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
 	{
+		"name": "2 Separatist victories",
+		"category": ["Combat"],
+		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
 		"name": "3 Separatist victories",
 		"category": ["Combat"],
 		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
+		"name": "4 Separatist victories",
+		"category": ["Combat"],
+		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
 	{
 		"name": "5 Separatist victories",
@@ -335,7 +355,17 @@
 		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
 	},
 	{
+		"name": "2 Rebellion victories",
+		"category": ["Combat"],
+		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
 		"name": "3 Rebellion victories",
+		"category": ["Combat"],
+		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
+		"name": "4 Rebellion victories",
 		"category": ["Combat"],
 		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
 	},
@@ -350,7 +380,17 @@
 		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
 	},
 	{
+		"name": "2 Empire victories",
+		"category": ["Combat"],
+		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
 		"name": "3 Empire victories",
+		"category": ["Combat"],
+		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
+		"name": "4 Empire victories",
 		"category": ["Combat"],
 		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
 	},
@@ -365,7 +405,17 @@
 		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
 	},
 	{
+		"name": "2 Resistance victories",
+		"category": ["Combat"],
+		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
 		"name": "3 Resistance victories",
+		"category": ["Combat"],
+		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
+		"name": "4 Resistance victories",
 		"category": ["Combat"],
 		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
 	},
@@ -380,7 +430,17 @@
 		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
 	},
 	{
+		"name": "2 First Order victories",
+		"category": ["Combat"],
+		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
 		"name": "3 First Order victories",
+		"category": ["Combat"],
+		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
+		"name": "4 First Order victories",
 		"category": ["Combat"],
 		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
 	},
@@ -420,6 +480,11 @@
 		"requires": "|@Heroes:1| or |@Villains:1| and (|Geonosis| or |Kamino| or |Naboo| or |Felucia| or |Kashyyyk| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4| or |Hoth| or |Bespin| or |Endor| or |Jakku| or |Takodana| or |Starkiller Base| or |Ajan Kloss|)"
 	},
 	{
+		"name": "Defeat 50 heroes or villains",
+		"category": ["Combat"],
+		"requires": "|@Heroes:1| or |@Villains:1| and (|Geonosis| or |Kamino| or |Naboo| or |Felucia| or |Kashyyyk| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4| or |Hoth| or |Bespin| or |Endor| or |Jakku| or |Takodana| or |Starkiller Base| or |Ajan Kloss|)"
+	},
+	{
 		"name": "Defeat 5 Republic enemies",
 		"category": ["Combat"],
 		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
@@ -446,6 +511,16 @@
 	},
 	{
 		"name": "Defeat 50 Republic enemies",
+		"category": ["Combat"],
+		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
+		"name": "Defeat 75 Republic enemies",
+		"category": ["Combat"],
+		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
+		"name": "Defeat 100 Republic enemies",
 		"category": ["Combat"],
 		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
@@ -480,6 +555,16 @@
 		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
 	{
+		"name": "Defeat 75 Separatist enemies",
+		"category": ["Combat"],
+		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
+		"name": "Defeat 100 Separatist enemies",
+		"category": ["Combat"],
+		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+	},
+	{
 		"name": "Defeat 5 Rebellion enemies",
 		"category": ["Combat"],
 		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
@@ -506,6 +591,16 @@
 	},
 	{
 		"name": "Defeat 50 Rebellion enemies",
+		"category": ["Combat"],
+		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
+		"name": "Defeat 75 Rebellion enemies",
+		"category": ["Combat"],
+		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
+		"name": "Defeat 100 Rebellion enemies",
 		"category": ["Combat"],
 		"requires": "|Empire| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
 	},
@@ -540,6 +635,16 @@
 		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
 	},
 	{
+		"name": "Defeat 75 Empire enemies",
+		"category": ["Combat"],
+		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
+		"name": "Defeat 100 Empire enemies",
+		"category": ["Combat"],
+		"requires": "|Rebellion| and (|Bespin| or |Death Star II| or |Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)"
+	},
+	{
 		"name": "Defeat 5 Resistance enemies",
 		"category": ["Combat"],
 		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
@@ -566,6 +671,16 @@
 	},
 	{
 		"name": "Defeat 50 Resistance enemies",
+		"category": ["Combat"],
+		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
+		"name": "Defeat 75 Resistance enemies",
+		"category": ["Combat"],
+		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
+		"name": "Defeat 100 Resistance enemies",
 		"category": ["Combat"],
 		"requires": "|First Order| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
 	},
@@ -600,17 +715,37 @@
 		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
 	},
 	{
+		"name": "Defeat 75 First Order enemies",
+		"category": ["Combat"],
+		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
+		"name": "Defeat 100 First Order enemies",
+		"category": ["Combat"],
+		"requires": "|Resistance| and (|Ajan Kloss| or |Crait| or |Jakku| or |Starkiller Base| or |Takodana|)"
+	},
+	{
 		"name": "Capture 1 Command Post",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
 	{
-		"name": "Capture 5 Command Posts",
+		"name": "Capture 3 Command Posts",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
 	{
-		"name": "Capture 10 Command Posts",
+		"name": "Capture 6 Command Posts",
+		"category": ["Combat"],
+		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
+	},
+	{
+		"name": "Capture 9 Command Posts",
+		"category": ["Combat"],
+		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
+	},
+	{
+		"name": "Capture 12 Command Posts",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
@@ -620,17 +755,27 @@
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
 	{
-		"name": "Capture 20 Command Posts",
+		"name": "Capture 18 Command Posts",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
 	{
-		"name": "Capture 25 Command Posts",
+		"name": "Capture 21 Command Posts",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
 	{
-		"name": "Capture 50 Command Posts",
+		"name": "Capture 24 Command Posts",
+		"category": ["Combat"],
+		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
+	},
+	{
+		"name": "Capture 27 Command Posts",
+		"category": ["Combat"],
+		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
+	},
+	{
+		"name": "Capture 30 Command Posts",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Scarif| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Ajan Kloss| or |Jakku| or |Starkiller Base| or |Takodana|))"
 	},
@@ -640,12 +785,22 @@
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
-		"name": "Complete 5 Blast matches",
+		"name": "Complete 2 Blast matches",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
-		"name": "Complete 10 Blast matches",
+		"name": "Complete 3 Blast matches",
+		"category": ["Combat"],
+		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
+	},
+	{
+		"name": "Complete 4 Blast matches",
+		"category": ["Combat"],
+		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
+	},
+	{
+		"name": "Complete 5 Blast matches",
 		"category": ["Combat"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
