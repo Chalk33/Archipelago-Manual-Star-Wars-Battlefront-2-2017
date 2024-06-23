@@ -1,0 +1,6 @@
+{
+    "Blast": {
+        "hidden": true,
+        "yaml_options": ["Blast_enabled"]
+    }
+}

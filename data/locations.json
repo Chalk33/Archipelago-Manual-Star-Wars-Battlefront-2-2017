@@ -781,27 +781,27 @@
 	},
 	{
 		"name": "Complete 1 Blast match",
-		"category": ["Combat"],
+		"category": ["Combat", "Blast"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
 		"name": "Complete 2 Blast matches",
-		"category": ["Combat"],
+		"category": ["Combat", "Blast"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
 		"name": "Complete 3 Blast matches",
-		"category": ["Combat"],
+		"category": ["Combat", "Blast"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
 		"name": "Complete 4 Blast matches",
-		"category": ["Combat"],
+		"category": ["Combat", "Blast"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
 		"name": "Complete 5 Blast matches",
-		"category": ["Combat"],
+		"category": ["Combat", "Blast"],
 		"requires": "(|Republic| or |Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo|)) or (|Rebellion| or |Empire| and (|Endor| or |Hoth| or |Kessel| or |Bespin| or |Tatooine| or |Yavin 4|)) or (|Resistance| or |First Order| and (|Takodana| or |Jakku| or |Starkiller Base| or |Crait|))"
 	},
 	{
