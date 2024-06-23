@@ -4,7 +4,7 @@ This is an Archipelago implementation of the game Star Wars Battlefront 2 (2017)
 # Setup
 Grab the apworld and yaml from releases. Place the apworld in lib/worlds. Place the yaml in the Players folder, and edit it accordingly.
 
-If playing on pc, it is highly recommended to use the [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases) and the [Instant Action Overhaul XL mod](https://www.nexusmods.com/starwarsbattlefront22017/mods/9310).
+If playing on pc, it is highly recommended to use the [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases) and the [Instant Action Overhaul XL mod](https://www.nexusmods.com/starwarsbattlefront22017/mods/9310). The manual is designed with these in mind.
 
 # How it Works
 ## Locations
@@ -15,7 +15,7 @@ If playing on pc, it is highly recommended to use the [Frosty Mod Manager](https
 - Defeating faction enemies
 - Defeating heroes and villains
 - Capturing Command Posts in Missions or Supremacy
-- Completing Blast matches
+- Completing Blast matches (optional)
 
 ## Items
 - Campaign Levels (in batches)
