@@ -2,7 +2,7 @@
 This is an Archipelago implementation of the game Star Wars Battlefront 2 (2017) using Manual. This manual is intended to be played using the pc version of the game, but theoretically should be playable on consoles as well.
 
 # Setup
-Grab the apworld and yaml from releases. Place the apworld in lib/worlds. Place the yaml in the Players folder, and edit it accordingly.
+Grab the apworld and yaml from [releases](https://github.com/Chalk33/Archipelago-Manual-Star-Wars-Battlefront-2-2017/releases/latest). Place the apworld in lib/worlds. Place the yaml in the Players folder, and edit it accordingly.
 
 If playing on pc, it is highly recommended to use the [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases) and the [Instant Action Overhaul XL mod](https://www.nexusmods.com/starwarsbattlefront22017/mods/9310). The manual is designed with these in mind.
 
