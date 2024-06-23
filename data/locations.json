@@ -332,7 +332,7 @@
 	{
 		"name": "2 Separatist victories",
 		"category": ["Combat"],
-		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
 	{
 		"name": "3 Separatist victories",
@@ -342,7 +342,7 @@
 	{
 		"name": "4 Separatist victories",
 		"category": ["Combat"],
-		"requires": "|Republic| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
+		"requires": "|Separatists| and (|Geonosis| or |Kamino| or |Kashyyyk| or |Naboo| or |Felucia|)"
 	},
 	{
 		"name": "5 Separatist victories",
